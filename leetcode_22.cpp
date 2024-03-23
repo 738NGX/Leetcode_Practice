@@ -14,7 +14,7 @@ public:
         int val;
         int push_count;
         int push_limit;
-
+ 
     public:
         string str;
         Node *left;
